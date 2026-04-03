@@ -1,4 +1,3 @@
 N= int(input())
 M=int(input())
 totalbill=N*M
-print(totalbill)

@@ -1,0 +1,7 @@
+A=input("Enter a string: ")
+B=int(input("Enter the ASCII Char1: "))
+C=int(input("Enter the ASCII Char2: "))
+chrB=chr(B)
+chrC=chr(C)
+A=A.replace(chrB,chrC)
+print(A)

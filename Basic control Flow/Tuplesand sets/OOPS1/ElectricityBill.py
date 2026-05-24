@@ -1,6 +1,7 @@
 class Bill:
     Meter_Charges = 150
     def __init__(self, previous_read,current_read):
+        
     
         self.previous_read = previous_read
         self.current_read = current_read
